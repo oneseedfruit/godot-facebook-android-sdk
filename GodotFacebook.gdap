@@ -1,0 +1,10 @@
+[config]
+
+name="GodotFacebook"
+binary_type="local"
+binary="GodotFacebook.release.aar"
+
+[dependencies]
+
+remote=["com.facebook.android:facebook-android-sdk:latest.release", "com.google.android.gms:play-services-ads:21.0.0"]
+
